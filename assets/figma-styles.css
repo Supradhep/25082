@@ -1,0 +1,1783 @@
+/* sidebar */
+
+position: relative;
+width: 250px;
+height: 812px;
+overflow-y: scroll;
+
+background: #FFFFFF;
+
+
+/* Rectangle 12 */
+
+position: absolute;
+width: 218px;
+height: 148px;
+left: 28px;
+top: 1088px;
+
+background: #B7EEFF;
+border-radius: 20px;
+
+
+/* Profile */
+
+position: absolute;
+width: 197px;
+height: 103px;
+left: 42px;
+top: 1110px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 48px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+
+
+/* Rectangle 11 */
+
+position: absolute;
+width: 218px;
+height: 148px;
+left: 28px;
+top: 854px;
+
+background: #B7EEFF;
+border-radius: 20px;
+
+
+/* History */
+
+position: absolute;
+width: 197px;
+height: 103px;
+left: 39px;
+top: 876px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 48px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+
+
+/* Rectangle 10 */
+
+position: absolute;
+width: 218px;
+height: 148px;
+left: 28px;
+top: 620px;
+
+background: #B7EEFF;
+border-radius: 20px;
+
+
+/* Favourite */
+
+position: absolute;
+width: 197px;
+height: 103px;
+left: 42px;
+top: 639px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 48px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+
+
+/* Rectangle 9 */
+
+position: absolute;
+width: 218px;
+height: 148px;
+left: 28px;
+top: 386px;
+
+background: #B7EEFF;
+border-radius: 20px;
+
+
+/* Schedule */
+
+position: absolute;
+width: 197px;
+height: 103px;
+left: 42px;
+top: 405px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 48px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+
+
+/* Rectangle 8 */
+
+position: absolute;
+width: 218px;
+height: 148px;
+left: 28px;
+top: 152px;
+
+background: #B7EEFF;
+border-radius: 20px;
+
+
+/* Route Planner */
+
+position: absolute;
+width: 143px;
+height: 96px;
+left: 66px;
+top: 178px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 48px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+
+
+/* Rectangle 13 */
+
+position: absolute;
+width: 91px;
+height: 70px;
+left: 34px;
+top: 32px;
+
+background: #B7EEFF;
+
+
+/* detail-full pg */
+
+position: relative;
+width: 390px;
+height: 844px;
+
+background: #FFFFFF;
+
+
+/* Your profile is all set! */
+
+position: absolute;
+width: 265px;
+height: 288px;
+left: 61px;
+top: 134px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+
+
+/* Let’s get moving! */
+
+position: absolute;
+width: 319px;
+height: 89px;
+left: 34px;
+top: 364px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 44px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+
+
+/* button */
+
+position: absolute;
+width: 399px;
+height: 131px;
+left: 10px;
+top: 495px;
+
+
+
+/* Rectangle 5 */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 2.94%;
+bottom: 0%;
+
+border: 1px solid #FFFFFF;
+border-radius: 16px;
+
+
+/* Rectangle 3 */
+
+position: absolute;
+left: 0%;
+right: 8.75%;
+top: 0%;
+bottom: 19.2%;
+
+background: #B7EEFF;
+border-radius: 40px;
+
+
+/* Back */
+
+position: absolute;
+visibility: hidden;
+left: 18.36%;
+right: 53.57%;
+top: 0%;
+bottom: 55.73%;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+/* identical to box height */
+
+color: #9747FF;
+
+
+
+/* button */
+
+position: absolute;
+width: 399px;
+height: 131px;
+left: 10px;
+top: 495px;
+
+
+
+/* Rectangle 5 */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 2.94%;
+bottom: 0%;
+
+border: 1px solid #FFFFFF;
+border-radius: 16px;
+
+
+/* Rectangle 3 */
+
+position: absolute;
+left: 0%;
+right: 8.75%;
+top: 0%;
+bottom: 19.2%;
+
+background: #B7EEFF;
+border-radius: 40px;
+
+
+/* Back */
+
+position: absolute;
+visibility: hidden;
+left: 18.36%;
+right: 53.57%;
+top: 0%;
+bottom: 55.73%;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+/* identical to box height */
+
+color: #9747FF;
+
+
+
+/* Go to Dashboard */
+
+position: absolute;
+width: 321px;
+height: 48px;
+left: 34px;
+top: 522px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 48px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+
+
+/* detail-2nd line */
+
+position: relative;
+width: 390px;
+height: 844px;
+
+background: #FFFFFF;
+
+
+/* Your profile is all set! */
+
+position: absolute;
+width: 265px;
+height: 288px;
+left: 61px;
+top: 134px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+
+
+/* Let’s get moving! */
+
+position: absolute;
+width: 319px;
+height: 89px;
+left: 34px;
+top: 364px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 44px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+
+
+/* detail-1st line */
+
+position: relative;
+width: 390px;
+height: 844px;
+
+background: #FFFFFF;
+
+
+/* Your profile is all set! */
+
+position: absolute;
+width: 265px;
+height: 288px;
+left: 61px;
+top: 134px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+
+
+/* detail-invisible */
+
+position: relative;
+width: 390px;
+height: 844px;
+
+background: #FFFFFF;
+
+
+/* Your profile is all set!invisible */
+
+position: absolute;
+width: 265px;
+height: 288px;
+left: 62px;
+top: 0px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+opacity: 0;
+
+
+/* profile */
+
+position: relative;
+width: 390px;
+height: 1400px;
+overflow-y: scroll;
+
+background: #FFFFFF;
+
+
+/* home */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 581px;
+
+position: absolute;
+width: 321px;
+height: 104px;
+left: 27px;
+top: 95px;
+
+
+
+/* Tell us about Yourself */
+
+position: absolute;
+width: 336px;
+height: 97px;
+left: 30px;
+top: 46px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 44px;
+text-align: center;
+
+color: #000000;
+
+
+
+/* Group 3 */
+
+position: absolute;
+width: 323px;
+height: 72px;
+left: 30px;
+top: 199px;
+
+
+
+/* Rectangle 6 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 323px;
+height: 72px;
+left: 30px;
+top: 199px;
+
+background: #FFFFFF;
+border: 1px solid #D9D9D9;
+border-radius: 40px;
+
+
+/* Name: */
+
+position: absolute;
+width: 98px;
+height: 39px;
+left: 46px;
+top: 215px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 39px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Group 4 */
+
+position: absolute;
+width: 323px;
+height: 72px;
+left: 30px;
+top: 455px;
+
+
+
+/* Rectangle 6 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 323px;
+height: 72px;
+left: 30px;
+top: 455px;
+
+background: #FFFFFF;
+border: 1px solid #D9D9D9;
+border-radius: 40px;
+
+
+/* Location: */
+
+position: absolute;
+width: 139px;
+height: 39px;
+left: 46px;
+top: 471px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 39px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Group 3 */
+
+position: absolute;
+width: 323px;
+height: 72px;
+left: 26px;
+top: 327px;
+
+
+
+/* Rectangle 6 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 323px;
+height: 72px;
+left: 26px;
+top: 327px;
+
+background: #FFFFFF;
+border: 1px solid #D9D9D9;
+border-radius: 40px;
+
+
+/* Family Size: + 2 - */
+
+position: absolute;
+width: 298px;
+height: 39px;
+left: 46px;
+top: 343px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 39px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Group 3 */
+
+position: absolute;
+width: 317px;
+height: 264px;
+left: 36px;
+top: 886px;
+
+
+
+/* Rectangle 6 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 317px;
+height: 104px;
+left: 36px;
+top: 886px;
+
+background: #FFFFFF;
+border: 1px solid #D9D9D9;
+border-radius: 40px;
+
+
+/* How will you use the app? */
+
+position: absolute;
+width: 273px;
+height: 50.39px;
+left: 52px;
+top: 896.34px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 39px;
+
+color: #000000;
+
+
+
+/* Group 3 */
+
+position: absolute;
+width: 317px;
+height: 104px;
+left: 36px;
+top: 1046px;
+
+
+
+/* Rectangle 6 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 317px;
+height: 104px;
+left: 36px;
+top: 1046px;
+
+background: #FFFFFF;
+border: 1px solid #D9D9D9;
+border-radius: 40px;
+
+
+/* How often will you use the app? */
+
+position: absolute;
+width: 273px;
+height: 50.39px;
+left: 52px;
+top: 1056.34px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 39px;
+
+color: #000000;
+
+
+
+/* Group 4 */
+
+position: absolute;
+width: 323px;
+height: 72px;
+left: 30px;
+top: 583px;
+
+
+
+/* Rectangle 6 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 323px;
+height: 72px;
+left: 30px;
+top: 583px;
+
+background: #FFFFFF;
+border: 1px solid #D9D9D9;
+border-radius: 40px;
+
+
+/* Travel Purpose: */
+
+position: absolute;
+width: 234px;
+height: 39px;
+left: 46px;
+top: 599px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 39px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Group 5 */
+
+position: absolute;
+width: 323px;
+height: 119px;
+left: 33px;
+top: 711px;
+
+
+
+/* Rectangle 6 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 323px;
+height: 119px;
+left: 33px;
+top: 711px;
+
+background: #FFFFFF;
+border: 1px solid #D9D9D9;
+border-radius: 40px;
+
+
+/* Mode of Transport: */
+
+position: absolute;
+width: 291px;
+height: 64.46px;
+left: 49px;
+top: 727px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 39px;
+
+color: #000000;
+
+
+
+/* button */
+
+position: absolute;
+width: 412px;
+height: 131px;
+left: 11px;
+top: 1239px;
+
+
+
+/* Rectangle 5 */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 2.94%;
+bottom: 0%;
+
+border: 1px solid #FFFFFF;
+border-radius: 16px;
+
+
+/* Rectangle 3 */
+
+position: absolute;
+left: 0%;
+right: 8.75%;
+top: 0%;
+bottom: 19.2%;
+
+background: #B7EEFF;
+border-radius: 40px;
+
+
+/* Back */
+
+position: absolute;
+visibility: hidden;
+left: 18.36%;
+right: 54.46%;
+top: 0%;
+bottom: 55.73%;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+/* identical to box height */
+
+color: #9747FF;
+
+
+
+/* Submit Profile */
+
+position: absolute;
+width: 317px;
+height: 58px;
+left: 40px;
+top: 1265px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* landing pg */
+
+position: relative;
+width: 390px;
+height: 844px;
+
+background: #FFFFFF;
+
+
+/* Rectangle 1 */
+
+position: absolute;
+width: 390px;
+height: 351px;
+left: 0px;
+top: 493px;
+
+background: url(Screenshot 2025-09-16 225611.png);
+
+
+/* NOMADO */
+
+position: absolute;
+width: 219px;
+height: 58px;
+left: 85px;
+top: 84px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Seamless journeys, sustainable cities */
+
+position: absolute;
+width: 377px;
+height: 59px;
+left: 8px;
+top: 190px;
+
+font-family: 'Playball';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 45px;
+text-align: center;
+
+color: #000000;
+
+
+
+/* button */
+
+position: absolute;
+width: 314px;
+height: 131px;
+left: 45px;
+top: 325px;
+
+
+
+/* Rectangle 5 */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 2.94%;
+bottom: 0%;
+
+border: 1px solid #FFFFFF;
+border-radius: 16px;
+
+
+/* Rectangle 3 */
+
+position: absolute;
+left: 0%;
+right: 8.75%;
+top: 0%;
+bottom: 19.2%;
+
+background: #B7EEFF;
+border-radius: 40px;
+
+
+/* Back */
+
+position: absolute;
+visibility: hidden;
+left: 18.36%;
+right: 45.97%;
+top: 0%;
+bottom: 55.73%;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+/* identical to box height */
+
+color: #9747FF;
+
+
+
+/* Get Started */
+
+position: absolute;
+width: 265px;
+height: 58px;
+left: 55px;
+top: 352px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* dashboard */
+
+position: relative;
+width: 390px;
+height: 1440px;
+
+background: #D9D9D9;
+
+
+/* Your profile is all set!invisible */
+
+position: absolute;
+width: 265px;
+height: 288px;
+left: 62px;
+top: 0px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #D9D9D9;
+
+opacity: 0;
+
+
+/* Rectangle 15 */
+
+position: absolute;
+width: 48px;
+height: 50px;
+left: 7px;
+top: 16px;
+
+background: #B7EEFF;
+
+
+/* Rectangle 16 */
+
+position: absolute;
+width: 328px;
+height: 700px;
+left: 30px;
+top: 132px;
+
+background: #FFFFFF;
+border-radius: 50px;
+
+
+/* Rectangle 17 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 258px;
+height: 45px;
+left: 66px;
+top: 220px;
+
+background: #FFFFFF;
+border: 4px solid #D9D9D9;
+border-radius: 10px;
+
+
+/* Rectangle 18 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 258px;
+height: 45px;
+left: 69px;
+top: 363px;
+
+background: #FFFFFF;
+border: 4px solid #D9D9D9;
+border-radius: 10px;
+
+
+/* Rectangle 19 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 258px;
+height: 45px;
+left: 69px;
+top: 649px;
+
+background: #FFFFFF;
+border: 4px solid #D9D9D9;
+border-radius: 10px;
+
+
+/* Rectangle 20 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 118px;
+height: 45px;
+left: 69px;
+top: 506px;
+
+background: #FFFFFF;
+border: 4px solid #D9D9D9;
+border-radius: 10px;
+
+
+/* Rectangle 21 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 118px;
+height: 45px;
+left: 209px;
+top: 506px;
+
+background: #FFFFFF;
+border: 4px solid #D9D9D9;
+border-radius: 10px;
+
+
+/* Route Map */
+
+position: absolute;
+width: 285px;
+height: 52px;
+left: calc(50% - 285px/2 - 6.5px);
+top: 907px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 39px;
+
+color: #000000;
+
+
+
+/* Plan Your Journey */
+
+position: absolute;
+width: 285px;
+height: 52px;
+left: calc(50% - 285px/2 - 13.5px);
+top: 66px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 39px;
+
+color: #000000;
+
+
+
+/* From */
+
+position: absolute;
+width: 77px;
+height: 39px;
+left: 62px;
+top: 159px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 39px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* To */
+
+position: absolute;
+width: 38px;
+height: 39px;
+left: 62px;
+top: 302px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 39px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Departure Time */
+
+position: absolute;
+width: 236px;
+height: 39px;
+left: 69px;
+top: 443px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 39px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Travel Modes */
+
+position: absolute;
+width: 204px;
+height: 39px;
+left: 69px;
+top: 578px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 39px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Rectangle 14 */
+
+position: absolute;
+width: 270px;
+height: 58px;
+left: 62px;
+top: 735px;
+
+background: #D9D9D9;
+border-radius: 20px;
+
+
+/* Get Routes */
+
+position: absolute;
+width: 210px;
+height: 48px;
+left: 93px;
+top: 740px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 48px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+
+
+/* map bx */
+
+position: absolute;
+width: 287px;
+height: 263px;
+left: 51px;
+top: 994px;
+
+background: #FFFFFF;
+border-radius: 25px;
+
+
+/* Select a route */
+
+position: absolute;
+width: 220px;
+height: 100px;
+left: 88px;
+top: 1073px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+text-align: center;
+
+color: #000000;
+
+
+
+/* dashboard(route) */
+
+position: relative;
+width: 390px;
+height: 2220px;
+
+background: #D9D9D9;
+
+
+/* Your profile is all set!invisible */
+
+position: absolute;
+width: 265px;
+height: 288px;
+left: 62px;
+top: 0px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #D9D9D9;
+
+opacity: 0;
+
+
+/* Rectangle 15 */
+
+position: absolute;
+width: 48px;
+height: 50px;
+left: 7px;
+top: 16px;
+
+background: #B7EEFF;
+
+
+/* Rectangle 16 */
+
+position: absolute;
+width: 328px;
+height: 700px;
+left: 30px;
+top: 132px;
+
+background: #FFFFFF;
+border-radius: 50px;
+
+
+/* Rectangle 17 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 258px;
+height: 45px;
+left: 66px;
+top: 220px;
+
+background: #FFFFFF;
+border: 4px solid #D9D9D9;
+border-radius: 10px;
+
+
+/* Rectangle 18 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 258px;
+height: 45px;
+left: 69px;
+top: 363px;
+
+background: #FFFFFF;
+border: 4px solid #D9D9D9;
+border-radius: 10px;
+
+
+/* Rectangle 19 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 258px;
+height: 45px;
+left: 69px;
+top: 649px;
+
+background: #FFFFFF;
+border: 4px solid #D9D9D9;
+border-radius: 10px;
+
+
+/* Rectangle 20 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 118px;
+height: 45px;
+left: 69px;
+top: 506px;
+
+background: #FFFFFF;
+border: 4px solid #D9D9D9;
+border-radius: 10px;
+
+
+/* Rectangle 21 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 118px;
+height: 45px;
+left: 209px;
+top: 506px;
+
+background: #FFFFFF;
+border: 4px solid #D9D9D9;
+border-radius: 10px;
+
+
+/* Route Map */
+
+position: absolute;
+width: 285px;
+height: 52px;
+left: calc(50% - 285px/2 - 6.5px);
+top: 907px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 39px;
+
+color: #000000;
+
+
+
+/* Plan Your Journey */
+
+position: absolute;
+width: 285px;
+height: 52px;
+left: calc(50% - 285px/2 - 13.5px);
+top: 66px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 39px;
+
+color: #000000;
+
+
+
+/* From */
+
+position: absolute;
+width: 77px;
+height: 39px;
+left: 62px;
+top: 159px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 39px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* To */
+
+position: absolute;
+width: 38px;
+height: 39px;
+left: 62px;
+top: 302px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 39px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Departure Time */
+
+position: absolute;
+width: 236px;
+height: 39px;
+left: 69px;
+top: 443px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 39px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Travel Modes */
+
+position: absolute;
+width: 204px;
+height: 39px;
+left: 69px;
+top: 578px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 39px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Rectangle 14 */
+
+position: absolute;
+width: 270px;
+height: 58px;
+left: 62px;
+top: 735px;
+
+background: #D9D9D9;
+border-radius: 20px;
+
+
+/* Get Routes */
+
+position: absolute;
+width: 210px;
+height: 48px;
+left: 93px;
+top: 740px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 48px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+
+
+/* map bx */
+
+position: absolute;
+width: 287px;
+height: 263px;
+left: 51px;
+top: 994px;
+
+background: #FFFFFF;
+border-radius: 25px;
+
+
+/* Select a route */
+
+position: absolute;
+width: 220px;
+height: 100px;
+left: 88px;
+top: 1073px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+text-align: center;
+
+color: #000000;
+
+
+
+/* Route Options */
+
+position: absolute;
+width: 285px;
+height: 52px;
+left: calc(50% - 285px/2 + 3.5px);
+top: 1306px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 39px;
+
+color: #000000;
+
+
+
+/* Fastest: */
+
+position: absolute;
+width: 162px;
+height: 36px;
+left: 56px;
+top: 1377px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+
+color: #000000;
+
+
+
+/* fastest box */
+
+position: absolute;
+width: 278px;
+height: 123px;
+left: 51px;
+top: 1432px;
+
+background: #FFFFFF;
+
+
+/* Economical: */
+
+position: absolute;
+width: 162px;
+height: 36px;
+left: 56px;
+top: 1596px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+
+color: #000000;
+
+
+
+/* economical box */
+
+position: absolute;
+width: 278px;
+height: 123px;
+left: 51px;
+top: 1665px;
+
+background: #FFFFFF;
+
+
+/* Eco-Friendly: */
+
+position: absolute;
+width: 162px;
+height: 36px;
+left: 58px;
+top: 1828px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+
+color: #000000;
+
+
+
+/* eco box */
+
+position: absolute;
+width: 278px;
+height: 123px;
+left: 53px;
+top: 1883px;
+
+background: #FFFFFF;
+
+
+/* Other Options: */
+
+position: absolute;
+width: 240px;
+height: 32px;
+left: 51px;
+top: 2047px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+
+color: #000000;
+
+
+
+/* other box */
+
+position: absolute;
+width: 278px;
+height: 123px;
+left: 49px;
+top: 2081px;
+
+background: #FFFFFF;
